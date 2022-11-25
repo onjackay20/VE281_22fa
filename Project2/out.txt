@@ -1,0 +1,1001 @@
+insert 8 0
+-1 -1 -1
+insert 26 2
+erase 1
+insert 41 4
+insert 14 5
+-1 -1 -1
+insert 79 7
+7 7 7
+-1 -1 -1
+insert 18 10
+erase 93
+insert 28 12
+-1 -1 -1
+-1 -1 -1
+-1 -1 -1
+insert 39 16
+-1 -1 -1
+insert 35 18
+erase 44
+erase 4
+-1 -1 -1
+-1 -1 -1
+insert 61 23
+-1 -1 -1
+erase 37
+erase 53
+erase 55
+erase 83
+erase 98
+insert 74 30
+insert 95 31
+erase 12
+erase 30
+insert 41 34
+erase 28
+erase 85
+erase 49
+insert 32 38
+insert 69 39
+erase 83
+-1 -1 -1
+-1 -1 -1
+erase 70
+-1 -1 -1
+-1 -1 -1
+erase 34
+insert 90 47
+-1 -1 -1
+erase 45
+-1 -1 -1
+erase 67
+insert 66 52
+erase 46
+erase 80
+insert 48 55
+erase 26
+-1 -1 -1
+insert 24 58
+insert 45 59
+-1 -1 -1
+-1 -1 -1
+-1 -1 -1
+insert 77 63
+erase 69
+erase 67
+erase 0
+insert 1 67
+insert 55 68
+-1 -1 -1
+insert 66 70
+insert 2 71
+67 67 67
+insert 13 73
+-1 -1 -1
+insert 54 75
+-1 -1 -1
+erase 8
+insert 55 78
+-1 -1 -1
+insert 13 80
+insert 45 81
+erase 91
+-1 -1 -1
+insert 49 84
+erase 86
+erase 18
+erase 60
+-1 -1 -1
+insert 49 89
+insert 85 90
+erase 7
+insert 15 92
+insert 46 93
+insert 54 94
+insert 99 95
+erase 85
+erase 84
+insert 94 98
+erase 76
+insert 69 100
+-1 -1 -1
+erase 55
+erase 63
+89 89 89
+erase 85
+-1 -1 -1
+insert 43 107
+-1 -1 -1
+-1 -1 -1
+insert 22 110
+erase 37
+erase 52
+erase 89
+insert 90 114
+-1 -1 -1
+insert 31 116
+insert 3 117
+7 7 7
+erase 93
+insert 79 120
+70 70 70
+erase 75
+-1 -1 -1
+erase 99
+erase 58
+erase 96
+erase 34
+100 100 100
+erase 99
+erase 92
+58 58 58
+-1 -1 -1
+erase 62
+erase 46
+-1 -1 -1
+erase 86
+insert 76 137
+insert 39 138
+67 67 67
+89 89 89
+erase 12
+insert 58 142
+erase 46
+erase 21
+insert 40 145
+erase 41
+erase 89
+-1 -1 -1
+erase 25
+insert 59 150
+insert 22 151
+70 70 70
+insert 11 153
+-1 -1 -1
+insert 96 155
+insert 75 156
+-1 -1 -1
+insert 7 158
+-1 -1 -1
+-1 -1 -1
+erase 94
+151 151 151
+erase 86
+insert 38 164
+insert 15 165
+-1 -1 -1
+erase 48
+insert 40 168
+-1 -1 -1
+-1 -1 -1
+insert 62 171
+insert 81 172
+-1 -1 -1
+-1 -1 -1
+-1 -1 -1
+67 67 67
+insert 70 177
+erase 1
+erase 45
+insert 19 180
+erase 90
+erase 49
+erase 39
+insert 97 184
+-1 -1 -1
+erase 84
+erase 21
+insert 74 188
+insert 5 189
+insert 54 190
+erase 28
+erase 96
+-1 -1 -1
+erase 54
+-1 -1 -1
+insert 40 196
+erase 45
+-1 -1 -1
+insert 83 199
+-1 -1 -1
+insert 44 201
+erase 81
+erase 49
+insert 24 204
+erase 10
+18 18 18
+erase 37
+insert 36 208
+erase 81
+erase 0
+-1 -1 -1
+insert 6 212
+erase 34
+-1 -1 -1
+-1 -1 -1
+insert 46 216
+-1 -1 -1
+erase 64
+insert 39 219
+insert 44 220
+insert 70 221
+insert 39 222
+-1 -1 -1
+insert 28 224
+erase 69
+insert 67 226
+erase 73
+insert 6 228
+erase 52
+224 224 224
+erase 61
+insert 2 232
+insert 58 233
+erase 37
+150 150 150
+erase 99
+insert 13 237
+erase 89
+erase 18
+erase 73
+erase 51
+erase 80
+erase 65
+insert 84 244
+insert 46 245
+erase 73
+107 107 107
+189 189 189
+insert 45 249
+-1 -1 -1
+insert 28 251
+164 164 164
+erase 92
+insert 70 254
+insert 97 255
+erase 1
+insert 36 257
+insert 25 258
+insert 68 259
+insert 20 260
+erase 77
+-1 -1 -1
+204 204 204
+-1 -1 -1
+258 258 258
+erase 26
+insert 25 267
+-1 -1 -1
+erase 43
+insert 79 270
+237 237 237
+-1 -1 -1
+insert 15 273
+-1 -1 -1
+insert 83 275
+-1 -1 -1
+insert 21 277
+erase 81
+insert 54 279
+insert 66 280
+insert 31 281
+erase 85
+-1 -1 -1
+insert 26 284
+erase 2
+-1 -1 -1
+164 164 164
+insert 17 288
+288 288 288
+insert 89 290
+erase 97
+erase 61
+erase 66
+226 226 226
+-1 -1 -1
+insert 5 296
+-1 -1 -1
+290 290 290
+insert 75 299
+erase 47
+erase 25
+-1 -1 -1
+insert 42 303
+erase 21
+erase 87
+erase 12
+296 296 296
+150 150 150
+insert 20 309
+erase 44
+erase 13
+erase 55
+erase 92
+insert 34 314
+erase 64
+insert 48 316
+insert 81 317
+-1 -1 -1
+insert 10 319
+-1 -1 -1
+insert 92 321
+erase 39
+insert 25 323
+259 259 259
+insert 29 325
+erase 20
+insert 66 327
+164 164 164
+-1 -1 -1
+-1 -1 -1
+erase 58
+insert 78 332
+151 151 151
+insert 15 334
+erase 17
+erase 86
+insert 54 337
+insert 10 338
+251 251 251
+insert 29 340
+erase 96
+-1 -1 -1
+erase 76
+insert 73 344
+5 5 5
+164 164 164
+-1 -1 -1
+insert 64 348
+erase 8
+164 164 164
+erase 34
+insert 87 352
+-1 -1 -1
+erase 72
+erase 80
+insert 40 356
+-1 -1 -1
+insert 91 358
+-1 -1 -1
+erase 80
+5 5 5
+erase 21
+erase 38
+insert 48 364
+insert 64 365
+204 204 204
+-1 -1 -1
+insert 92 368
+erase 12
+erase 53
+insert 18 371
+insert 21 372
+-1 -1 -1
+117 117 117
+insert 76 375
+334 334 334
+296 296 296
+insert 89 378
+insert 73 379
+-1 -1 -1
+erase 29
+erase 41
+317 317 317
+insert 15 384
+erase 97
+insert 39 386
+erase 61
+368 368 368
+erase 25
+erase 17
+275 275 275
+insert 44 392
+372 372 372
+insert 84 394
+insert 24 395
+erase 85
+-1 -1 -1
+insert 98 398
+insert 59 399
+erase 29
+-1 -1 -1
+insert 76 402
+erase 32
+erase 46
+erase 67
+insert 59 406
+364 364 364
+insert 39 408
+insert 89 409
+-1 -1 -1
+erase 6
+371 371 371
+-1 -1 -1
+erase 91
+insert 82 415
+erase 99
+368 368 368
+erase 15
+erase 47
+erase 34
+erase 29
+insert 65 422
+insert 0 423
+insert 51 424
+394 394 394
+erase 7
+insert 74 427
+erase 50
+erase 94
+insert 45 430
+-1 -1 -1
+insert 96 432
+erase 72
+insert 30 434
+insert 29 435
+erase 35
+erase 61
+356 356 356
+-1 -1 -1
+insert 3 440
+365 365 365
+insert 39 442
+erase 89
+erase 45
+281 281 281
+insert 64 446
+erase 35
+erase 50
+erase 28
+insert 80 450
+364 364 364
+insert 16 452
+erase 71
+erase 23
+erase 52
+erase 29
+insert 41 457
+-1 -1 -1
+insert 59 459
+insert 70 460
+-1 -1 -1
+insert 39 462
+insert 98 463
+457 457 457
+427 427 427
+insert 85 466
+insert 40 467
+257 257 257
+erase 62
+erase 96
+-1 -1 -1
+415 415 415
+-1 -1 -1
+erase 14
+insert 92 475
+erase 52
+460 460 460
+-1 -1 -1
+-1 -1 -1
+-1 -1 -1
+erase 34
+insert 87 482
+insert 90 483
+462 462 462
+insert 35 485
+insert 70 486
+422 422 422
+-1 -1 -1
+392 392 392
+insert 22 490
+erase 7
+erase 74
+erase 19
+-1 -1 -1
+insert 55 495
+erase 17
+insert 37 497
+452 452 452
+insert 81 499
+erase 83
+insert 95 501
+erase 42
+-1 -1 -1
+-1 -1 -1
+insert 74 505
+erase 94
+erase 26
+erase 62
+erase 15
+erase 2
+446 446 446
+153 153 153
+-1 -1 -1
+499 499 499
+erase 87
+insert 26 516
+insert 22 517
+501 501 501
+insert 19 519
+483 483 483
+-1 -1 -1
+516 516 516
+296 296 296
+501 501 501
+-1 -1 -1
+erase 42
+erase 70
+insert 74 528
+-1 -1 -1
+insert 57 530
+erase 25
+insert 56 532
+erase 4
+erase 31
+erase 75
+372 372 372
+-1 -1 -1
+erase 48
+erase 40
+insert 88 540
+insert 46 541
+erase 68
+erase 36
+-1 -1 -1
+insert 3 545
+-1 -1 -1
+-1 -1 -1
+insert 75 548
+erase 55
+insert 39 550
+insert 32 551
+insert 28 552
+459 459 459
+erase 58
+insert 73 555
+erase 47
+450 450 450
+erase 87
+erase 63
+-1 -1 -1
+516 516 516
+erase 94
+insert 91 563
+-1 -1 -1
+erase 32
+erase 76
+erase 48
+erase 59
+insert 34 569
+153 153 153
+-1 -1 -1
+332 332 332
+erase 78
+insert 69 574
+insert 19 575
+erase 59
+423 423 423
+415 415 415
+insert 79 579
+-1 -1 -1
+insert 19 581
+erase 28
+-1 -1 -1
+insert 79 584
+insert 9 585
+452 452 452
+erase 52
+erase 29
+insert 63 589
+insert 76 590
+erase 10
+insert 31 592
+insert 93 593
+insert 2 594
+-1 -1 -1
+erase 36
+erase 58
+540 540 540
+insert 56 599
+550 550 550
+insert 61 601
+erase 47
+erase 54
+-1 -1 -1
+erase 26
+erase 52
+-1 -1 -1
+erase 47
+erase 2
+485 485 485
+593 593 593
+-1 -1 -1
+insert 88 613
+insert 85 614
+insert 28 615
+-1 -1 -1
+614 614 614
+insert 8 618
+614 614 614
+erase 9
+483 483 483
+erase 0
+erase 98
+insert 71 624
+erase 0
+erase 51
+erase 30
+insert 48 628
+-1 -1 -1
+insert 62 630
+erase 63
+erase 99
+insert 34 633
+550 550 550
+-1 -1 -1
+485 485 485
+erase 63
+624 624 624
+insert 34 639
+insert 65 640
+erase 0
+erase 31
+erase 88
+628 628 628
+-1 -1 -1
+erase 27
+insert 88 647
+insert 85 648
+erase 86
+insert 98 650
+erase 77
+erase 17
+insert 21 653
+insert 57 654
+insert 82 655
+erase 94
+erase 43
+-1 -1 -1
+erase 62
+erase 1
+-1 -1 -1
+-1 -1 -1
+erase 6
+insert 91 664
+insert 30 665
+-1 -1 -1
+erase 76
+insert 52 668
+654 654 654
+insert 57 670
+insert 36 671
+insert 22 672
+655 655 655
+-1 -1 -1
+-1 -1 -1
+615 615 615
+-1 -1 -1
+erase 96
+insert 51 679
+erase 95
+-1 -1 -1
+593 593 593
+-1 -1 -1
+-1 -1 -1
+618 618 618
+insert 11 686
+-1 -1 -1
+erase 76
+insert 21 689
+650 650 650
+erase 55
+-1 -1 -1
+548 548 548
+296 296 296
+483 483 483
+446 446 446
+insert 98 697
+insert 29 698
+-1 -1 -1
+erase 84
+erase 48
+-1 -1 -1
+erase 33
+erase 19
+insert 27 705
+insert 82 706
+-1 -1 -1
+insert 85 708
+erase 91
+insert 54 710
+-1 -1 -1
+erase 4
+615 615 615
+insert 10 714
+insert 69 715
+679 679 679
+-1 -1 -1
+-1 -1 -1
+insert 99 719
+insert 34 720
+-1 -1 -1
+erase 12
+599 599 599
+erase 1
+erase 91
+insert 80 726
+insert 26 727
+erase 84
+insert 70 729
+457 457 457
+erase 93
+erase 10
+erase 55
+-1 -1 -1
+erase 55
+erase 84
+insert 21 737
+-1 -1 -1
+-1 -1 -1
+erase 77
+erase 69
+548 548 548
+erase 47
+-1 -1 -1
+erase 58
+insert 9 746
+-1 -1 -1
+erase 91
+-1 -1 -1
+-1 -1 -1
+446 446 446
+-1 -1 -1
+erase 82
+insert 20 754
+erase 83
+erase 69
+insert 7 757
+erase 52
+erase 56
+insert 76 760
+-1 -1 -1
+erase 17
+insert 57 763
+erase 83
+-1 -1 -1
+insert 1 766
+erase 22
+-1 -1 -1
+-1 -1 -1
+erase 37
+erase 48
+erase 22
+-1 -1 -1
+erase 14
+erase 31
+760 760 760
+insert 27 777
+insert 24 778
+757 757 757
+erase 10
+insert 43 781
+-1 -1 -1
+insert 25 783
+insert 23 784
+-1 -1 -1
+erase 77
+insert 18 787
+insert 56 788
+783 783 783
+584 584 584
+erase 12
+insert 40 792
+insert 53 793
+insert 76 794
+insert 23 795
+insert 91 796
+erase 1
+insert 37 798
+-1 -1 -1
+erase 38
+778 778 778
+erase 62
+erase 18
+erase 62
+erase 92
+679 679 679
+-1 -1 -1
+insert 47 808
+erase 56
+-1 -1 -1
+insert 61 811
+insert 3 812
+insert 21 813
+erase 93
+erase 4
+-1 -1 -1
+-1 -1 -1
+erase 74
+insert 32 819
+-1 -1 -1
+720 720 720
+insert 32 822
+erase 59
+erase 93
+erase 55
+insert 99 826
+erase 71
+erase 83
+insert 46 829
+insert 31 830
+-1 -1 -1
+insert 82 832
+erase 45
+insert 87 834
+-1 -1 -1
+296 296 296
+insert 70 837
+erase 18
+452 452 452
+erase 96
+erase 24
+insert 40 842
+-1 -1 -1
+erase 39
+-1 -1 -1
+812 812 812
+793 793 793
+erase 36
+829 829 829
+insert 79 850
+erase 78
+insert 74 852
+555 555 555
+insert 29 854
+618 618 618
+erase 13
+insert 26 857
+insert 27 858
+insert 81 859
+859 859 859
+erase 41
+-1 -1 -1
+548 548 548
+-1 -1 -1
+erase 70
+erase 17
+erase 65
+insert 97 868
+647 647 647
+insert 80 870
+erase 56
+615 615 615
+insert 51 873
+erase 15
+783 783 783
+852 852 852
+insert 85 877
+insert 65 878
+858 858 858
+insert 34 880
+erase 42
+insert 45 882
+erase 46
+erase 98
+erase 73
+erase 82
+-1 -1 -1
+446 446 446
+erase 69
+erase 12
+850 850 850
+insert 65 892
+insert 71 893
+insert 29 894
+erase 96
+erase 47
+insert 18 897
+insert 98 898
+-1 -1 -1
+insert 51 900
+insert 27 901
+-1 -1 -1
+insert 48 903
+erase 79
+insert 40 905
+insert 17 906
+erase 34
+insert 89 908
+906 906 906
+insert 55 910
+erase 86
+erase 4
+-1 -1 -1
+erase 21
+812 812 812
+insert 2 916
+-1 -1 -1
+-1 -1 -1
+746 746 746
+insert 77 920
+erase 61
+erase 21
+insert 81 923
+insert 1 924
+insert 81 925
+erase 11
+insert 11 927
+erase 75
+insert 23 929
+903 903 903
+852 852 852
+-1 -1 -1
+insert 2 933
+erase 92
+-1 -1 -1
+-1 -1 -1
+erase 68
+erase 70
+-1 -1 -1
+erase 47
+822 822 822
+903 903 903
+erase 31
+insert 54 944
+erase 25
+-1 -1 -1
+746 746 746
+insert 84 948
+-1 -1 -1
+insert 22 950
+898 898 898
+insert 31 952
+erase 21
+insert 68 954
+erase 76
+erase 47
+insert 79 957
+erase 57
+929 929 929
+erase 68
+erase 18
+insert 99 962
+insert 50 963
+insert 91 964
+-1 -1 -1
+962 962 962
+924 924 924
+insert 81 968
+485 485 485
+-1 -1 -1
+insert 70 971
+920 920 920
+erase 38
+insert 63 974
+erase 97
+insert 14 976
+insert 35 977
+erase 48
+insert 1 979
+erase 80
+296 296 296
+901 901 901
+327 327 327
+insert 80 984
+erase 63
+insert 17 986
+insert 62 987
+insert 34 988
+984 984 984
+erase 14
+insert 80 991
+898 898 898
+insert 45 993
+979 979 979
+insert 37 995
+927 927 927
+insert 16 997
+erase 53
+insert 52 999
+elapsed time: 0.00195471s
