@@ -1,5 +1,4 @@
 # VE281_22fa
-开源中国，开源JI。
 
 p1的sorting有10个点TLE，全是快排，猜测是non-inplace快排太慢，应该可以把non-inplace快排当做inplace快排来写。凸包有三个点WA，看了下数据，可能是三点共线的情况出错了。
 
